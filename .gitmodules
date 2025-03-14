@@ -1,0 +1,6 @@
+[submodule "SwiftLTC/libltc"]
+	path = libltc
+	url = https://github.com/x42/libltc
+[submodule "libltc/libltc"]
+	path = libltc/libltc
+	url = https://github.com/x42/libltc
